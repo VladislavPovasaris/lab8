@@ -1,0 +1,46 @@
+body
+{
+  width: 1366px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.list
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: 0;
+width: 1366px;
+justify-content: center;
+}
+
+.pics
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-left: 80px;
+  padding-right: 20px;
+  width: 1366px;
+  justify-content: center;
+}
+img
+{
+  margin-left: auto;
+  margin-right: auto;
+  height: 399px;
+  width: 600px;
+  justify-content: center;
+}
+.player
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  justify-content: center;
+}
+.contacts
+{
+  width: 150px;
+}
