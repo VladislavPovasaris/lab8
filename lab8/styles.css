@@ -1,8 +1,10 @@
 body
 {
+  font-family:'Open Sans', sans-serif;
   width: 1366px;
   margin-left: auto;
   margin-right: auto;
+  line-height: 1.5;
 }
 .list
 {
@@ -43,4 +45,34 @@ img
 .contacts
 {
   width: 150px;
+}
+h1
+{
+  color: #0b4dc7;
+}
+a:active
+{
+  color: #0bc7c5;
+}
+li
+{
+  margin-bottom: 10px;
+}
+table
+{
+  border-collapse: collapse;
+  border-color: black;
+  border: 1px solid black;
+}
+td,th
+{
+  text-align: center;
+  padding: 3px;
+  border: 1px solid black;
+  padding: 10px;
+}
+.basement
+{
+  display: inline-block;
+  justify-content: center;
 }
