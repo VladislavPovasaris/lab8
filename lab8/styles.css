@@ -92,10 +92,3 @@ footer
   padding: 30px;
   float: left;
 }
-.out
-{
-  position: absolute;
-  width: 100%;
-  left: 0;
-  background-color: red;
-}
